@@ -11,4 +11,4 @@ I'm using this repository to:
 
 The repository is organized as follows:
 
-* **by_problem:** Sub-Folders for language used to solve the problem.
+* **LeetCode problem** --> **Language** --> **Solutions** 
